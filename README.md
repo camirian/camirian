@@ -8,7 +8,7 @@
     An award-winning systems architect and applied AI innovator with 9+ years of experience designing the future of complex, safety-critical systems. 
   </p>
   <p>
-    I specialize in the synthesis of formal Model-Based Systems Engineering (MBSE) and the hands-on development of generative AI solutions. I'm passionate about enhancing the reliability and verifiability of AI and am now focused on applying my background in systems-of-systems architecture to solve the core challenges of <strong>autonomous vehicles</strong>.
+    I specialize in the synthesis of formal Model-Based Systems Engineering (MBSE) and the hands-on development of generative AI solutions. I'm passionate about enhancing the reliability and verifiability of AI and am now focused on applying my background to solve the core challenges at the intersection of complex systems and artificial intelligence.
   </p>
   <div>
     <a href="https://www.linkedin.com/in/caaren-amirian/" target="_blank">
