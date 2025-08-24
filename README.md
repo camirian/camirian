@@ -8,14 +8,27 @@
     An award-winning systems architect and applied AI innovator with 9+ years of experience designing the future of complex, safety-critical systems. 
   </p>
   <p>
-    I specialize in the synthesis of formal Model-Based Systems Engineering (MBSE) and the hands-on development of generative AI solutions. I'm passionate about enhancing the reliability and verifiability of AI and am now focused on applying my background to solve the core challenges at the intersection of complex systems and artificial intelligence.
+    I specialize in synthesizing formal Model-Based Systems Engineering (MBSE) with the hands-on development of generative AI solutions. I am now focusing my expertise on solving core challenges in **robotics, autonomous vehicles, and physical AI**.
   </p>
   <div>
     <a href="https://www.linkedin.com/in/caaren-amirian/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    <a href="https://www.youtube.com/@CaarenAmirian" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
   </div>
 </div>
+
+---
+
+### 🌱 My Current Focus: The AI & Robotics SME Portfolio
+
+I am currently building a multi-phase portfolio to develop and demonstrate Subject Matter Expertise in AI and Robotics. This is a hands-on journey to master the tools and workflows used to build and deploy intelligent physical systems.
+
+* **[Phase 0: The Robotics Glossary](https://github.com/camirian/phase-0-robotics-glossary)**: A living knowledge base of core robotics concepts.
+* **[Phase 1: Development Environment](https://github.com/camirian/phase-1-ai-robotics-dev-environment)**: The foundational setup for a distributed, sim-to-real workflow (Host PC + NVIDIA Jetson).
+* **[Phase 2: Core Competencies](https://github.com/camirian/phase-2-ros2-isaac-sim-foundations)**: Hands-on projects in ROS 2 and NVIDIA Isaac Sim.
 
 ---
 
@@ -23,7 +36,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33.3%">
       <strong>AI/ML & Data Science</strong>
       <ul>
         <li>Foundational Models (Gemini, GPT-4o)</li>
@@ -33,48 +46,4 @@
         <li>Frameworks: LangChain, TensorFlow</li>
       </ul>
     </td>
-    <td valign="top" width="50%">
-      <strong>Systems Architecture & Engineering</strong>
-      <ul>
-        <li>Model-Based Systems Engineering (MBSE)</li>
-        <li>SysML (v1, v2) & UAF</li>
-        <li>Digital Engineering & Digital Twins</li>
-        <li>Requirements Engineering</li>
-        <li>Functional Safety (FTA, FMEA)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💻 Tech Stack & Tools
-
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/SysML-000000?style=for-the-badge&logo=sysml&logoColor=white" alt="SysML"/>
-</div>
-
----
-
-### 🚀 Spotlight Project: AI-Powered Multimodal Photo Management System
-
-This is a full-stack Python system I architected and developed to automate the organization and enrichment of large photo libraries. It showcases a practical, end-to-end application of applied AI.
-
-- **Data Processing Pipeline**: Integrates open-source libraries (`DeepFace`) for facial recognition and both open-source (`LLaVA`) and proprietary (`Gemini`) Large Multimodal Models (LMMs) to generate rich, context-aware image descriptions.
-- **Semantic Search**: Fuses structured metadata (facial tags) with unstructured text (AI-generated descriptions) to create a comprehensive, semantically searchable photo archive.
-- **Stack**: Python, Gemini, LLaVA, DeepFace.
-
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camirian&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Caaren's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camirian&layout=compact&theme=radical&hide_border=true" alt="Caaren's Top Languages"/>
-</div>
+    <td valign="
