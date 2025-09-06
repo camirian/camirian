@@ -24,11 +24,12 @@
 
 ### 🌱 My Current Focus: The AI & Robotics SME Portfolio
 
-I am currently building a multi-phase portfolio to develop and demonstrate Subject Matter Expertise in AI and Robotics. This is a hands-on journey to master the tools and workflows used to build and deploy intelligent physical systems.
+I am currently executing a multi-phase portfolio to develop and demonstrate Subject Matter Expertise in AI and Robotics. This is a hands-on journey to master the tools and workflows used to build and deploy intelligent physical systems.
 
-* **[Phase 0: The Robotics Glossary](https://github.com/camirian/phase-0-robotics-glossary)**: A living knowledge base of core robotics concepts.
-* **[Phase 1: Development Environment](https://github.com/camirian/phase-1-ai-robotics-dev-environment)**: The foundational setup for a distributed, sim-to-real workflow (Host PC + NVIDIA Jetson).
-* **[Phase 2: Core Competencies](https://github.com/camirian/phase-2-ros2-isaac-sim-foundations)**: Hands-on projects in ROS 2 and NVIDIA Isaac Sim.
+- **[Phase 0: The Robotics Glossary](https://github.com/camirian/phase-0-robotics-glossary)**: A living knowledge base of core robotics concepts.
+- **[Phase 1: Development Environment](https://github.com/camirian/phase-1-ai-robotics-dev-environment)**: The foundational setup for a distributed, sim-to-real workflow.
+- **[Phase 2: Core Competencies](https://github.com/camirian/phase-2-ros2-isaac-sim-foundations)**: **[✅ COMPLETED]** Hands-on projects in ROS 2 (Python & C++) and NVIDIA Isaac Sim.
+- **Phase 3: Advanced Portfolio Projects**: **[🚧 IN PROGRESS]**
 
 ---
 
@@ -46,4 +47,25 @@ I am currently building a multi-phase portfolio to develop and demonstrate Subje
         <li>Frameworks: LangChain, TensorFlow</li>
       </ul>
     </td>
-    <td valign="
+    <td valign="top" width="33.3%">
+      <strong>Systems Architecture</strong>
+      <ul>
+        <li>Model-Based Systems Eng. (MBSE)</li>
+        <li>SysML (v1, v2) & UAF</li>
+        <li>Digital Engineering & Digital Twins</li>
+        <li>Requirements Engineering</li>
+        <li>Functional Safety (FTA, FMEA)</li>
+      </ul>
+    </td>
+    <td valign="top" width="33.3%">
+      <strong>Robotics & Simulation</strong>
+      <ul>
+        <li>ROS 2 (Python/rclpy & C++/rclcpp)</li>
+        <li>NVIDIA Isaac Sim</li>
+        <li>NVIDIA Jetson Platform</li>
+        <li>Simulation-to-Real Workflow</li>
+        <li>Computer Vision & Perception</li>
+      </ul>
+    </td>
+  </tr>
+</table>
