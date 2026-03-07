@@ -10,8 +10,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camirian&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Caaren's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=camirian&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=camirian&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Caaren's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camirian&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
