@@ -5,7 +5,7 @@
   <a href="https://www.youtube.com/@CaarenAmirian" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
-9+ years designing safety-critical systems-of-systems. Now applying that background to **Physical AI & Cyber-Physical Systems** — architecting the full stack from simulation and control models to agentic reasoning and edge deployment.
+10+ years designing safety-critical systems-of-systems. Now applying that background to **Physical AI & Cyber-Physical Systems** — architecting the full stack from simulation and control models to agentic reasoning and edge deployment.
 
 <br>
 
