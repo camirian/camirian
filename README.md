@@ -33,21 +33,21 @@
 
 ## 🏗️ Technical Domain Pillars
 
-### 🦾 Robotics & Simulation
-- **[articulated-robot-manipulation](https://github.com/camirian/articulated-robot-manipulation)**: Franka Panda pick-and-place · Lula IK · NVIDIA Isaac Sim 5.0
-- **[sim-to-real-control-systems](https://github.com/camirian/sim-to-real-control-systems)**: ROS 2 OmniGraph bridge · Joint state publishing · Python & C++ nodes
-- **[distributed-robotics-infrastructure](https://github.com/camirian/distributed-robotics-infrastructure)**: Ubuntu host · GCP simulation node · NVIDIA Jetson Orin sync
+### ![Robotics](https://img.shields.io/badge/Robotics_%26_Simulation-6366f1?style=flat-square&logo=robotframework)
+- **[articulated-robot-manipulation](https://github.com/camirian/articulated-robot-manipulation)** `Python` `Isaac Sim`
+- **[sim-to-real-control-systems](https://github.com/camirian/sim-to-real-control-systems)** `C++` `ROS 2`
+- **[distributed-robotics-infrastructure](https://github.com/camirian/distributed-robotics-infrastructure)** `Orin` `GCP`
 
-### 🧠 Agentic AI & LLMs
-- **[agentic-systems-verifier](https://github.com/camirian/agentic-systems-verifier)**: RAG pipeline · Live pytest execution · LLM-driven formal verification
-- **[ad-supply-chain-platform](https://github.com/camirian/ad-supply-chain-platform)**: FastAPI & React · Gemini 1.5-Flash · Automated supply chain reasoning
+### ![AI](https://img.shields.io/badge/Agentic_AI_%26_LLMs-10b981?style=flat-square&logo=google-gemini)
+- **[agentic-systems-verifier](https://github.com/camirian/agentic-systems-verifier)** `LangChain` `Gemini`
+- **[ad-supply-chain-platform](https://github.com/camirian/ad-supply-chain-platform)** `FastAPI` `React`
 
-### 📟 Embedded & Hardware Systems
-- **[verilog-fpga-architecture](https://github.com/camirian/verilog-fpga-architecture)**: RTL design · SPI Master module · Formal testbenches
-- **[gyroscope-firmware-mock](https://github.com/camirian/gyroscope-firmware-mock)**: DO-254 compliant firmware mock for safety-critical IMU tests
+### ![Hardware](https://img.shields.io/badge/Embedded_%26_Hardware_Systems-e67e22?style=flat-square&logo=arm)
+- **[verilog-fpga-architecture](https://github.com/camirian/verilog-fpga-architecture)** `Verilog` `RTL`
+- **[gyroscope-firmware-mock](https://github.com/camirian/gyroscope-firmware-mock)** `DO-254` `C`
 
-### 📚 Knowledge & Research
-- **[robotics-ontology](https://github.com/camirian/robotics-ontology)**: A living knowledge base for Robotics, AI, and MBSE terminology.
+### ![Research](https://img.shields.io/badge/Knowledge_%26_Research-3498db?style=flat-square&logo=read-the-docs)
+- **[robotics-ontology](https://github.com/camirian/robotics-ontology)** `MBSE` `Knowledge Graph`
 
 ---
 
