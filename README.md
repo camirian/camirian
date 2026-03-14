@@ -22,9 +22,9 @@
 
 | **Physical AI & Robotics** | **Agentic AI & Formal Verification** |
 | :--- | :--- |
-| [<img src="https://github.com/camirian/articulated-robot-manipulation/raw/main/assets/banner.png" width="300"><br>**Articulated Manipulation**](https://github.com/camirian/articulated-robot-manipulation) | [<img src="https://github.com/camirian/agentic-systems-verifier/raw/main/assets/banner.png" width="300"><br>**Agentic Systems Verifier**](https://github.com/camirian/agentic-systems-verifier) |
+| <br>![Robotics](https://img.shields.io/badge/Robotics-Franka_Panda-6366f1?style=for-the-badge&logo=robotframework)<br>[**Articulated Manipulation**](https://github.com/camirian/articulated-robot-manipulation) | <br>![AI](https://img.shields.io/badge/Agentic_AI-NASA_HDTN-10b981?style=for-the-badge&logo=google-gemini)<br>[**Agentic Systems Verifier**](https://github.com/camirian/agentic-systems-verifier) |
 | Physics-correct Franka pick-and-place in NVIDIA Isaac Sim. | NASA HDTN verification via LangChain & Gemini Pro. |
-| [<img src="https://github.com/camirian/sim-to-real-control-systems/raw/main/assets/banner.png" width="300"><br>**Sim-to-Real Control**](https://github.com/camirian/sim-to-real-control-systems) | [<img src="https://github.com/camirian/ad-supply-chain-platform/raw/main/assets/banner.png" width="300"><br>**AI Supply Chain Agent**](https://github.com/camirian/ad-supply-chain-platform) |
+| <br>![Simulation](https://img.shields.io/badge/Sim--to--Real-ROS_2-red?style=for-the-badge&logo=ros)<br>[**Sim-to-Real Control**](https://github.com/camirian/sim-to-real-control-systems) | <br>![Supply Chain](https://img.shields.io/badge/Supply_Chain-Text--to--SQL-blue?style=for-the-badge&logo=databricks)<br>[**AI Supply Chain Agent**](https://github.com/camirian/ad-supply-chain-platform) |
 | ROS 2 bridge for high-fidelity simulation and real-world sync. | Enterprise text-to-SQL agent for A&D industry. |
 
 </div>
