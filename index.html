@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caaren Amirian | Systems Architect & Physical AI</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #0a0a0f;
+            --card-bg: rgba(255, 255, 255, 0.03);
+            --border: rgba(255, 255, 255, 0.1);
+            --primary: #6366f1;
+            --accent: #10b981;
+            --text: #e2e8f0;
+            --text-dim: #94a3b8;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg);
+            color: var(--text);
+            font-family: 'Inter', sans-serif;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 4rem 2rem;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 5rem;
+        }
+
+        h1 {
+            font-size: 3.5rem;
+            font-weight: 800;
+            background: linear-gradient(to right, #6366f1, #10b981);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 1rem;
+        }
+
+        .tagline {
+            font-size: 1.25rem;
+            color: var(--text-dim);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        section {
+            margin-bottom: 6rem;
+        }
+
+        h2 {
+            font-size: 2rem;
+            margin-bottom: 2rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        h2::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: var(--border);
+        }
+
+        .project-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+        }
+
+        .project-card {
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 1rem;
+            padding: 2rem;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .project-card:hover {
+            border-color: var(--primary);
+            transform: translateY(-5px);
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .project-card h3 {
+            margin-bottom: 1rem;
+            font-size: 1.5rem;
+        }
+
+        .project-card p {
+            color: var(--text-dim);
+            font-size: 0.95rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .tag {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.75rem;
+            background: rgba(99, 102, 241, 0.1);
+            color: var(--primary);
+            padding: 0.25rem 0.75rem;
+            border-radius: 2rem;
+            border: 1px solid rgba(99, 102, 241, 0.2);
+        }
+
+        .links {
+            margin-top: 1.5rem;
+            display: flex;
+            gap: 1rem;
+        }
+
+        .btn {
+            text-decoration: none;
+            color: var(--text);
+            font-weight: 600;
+            font-size: 0.9rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transition: opacity 0.2s;
+        }
+
+        .btn:hover {
+            opacity: 0.8;
+        }
+
+        .stats-placeholder {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            flex-wrap: wrap;
+            margin-top: 2rem;
+        }
+
+        .stats-placeholder img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        footer {
+            text-align: center;
+            padding: 4rem 0;
+            border-top: 1px solid var(--border);
+            color: var(--text-dim);
+            font-size: 0.9rem;
+        }
+
+        .glow {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at 50% 50%, rgba(99, 102, 241, 0.05) 0%, transparent 50%);
+            pointer-events: none;
+            z-index: -1;
+        }
+    </style>
+</head>
+<body>
+    <div class="glow"></div>
+    <div class="container">
+        <header>
+            <h1>Caaren Amirian</h1>
+            <p class="tagline">Systems Architect · Physical AI & Cyber-Physical Systems<br>Designing the future of robotics and agentic reasoners.</p>
+            <div class="stats-placeholder">
+                <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=camirian&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats">
+            </div>
+        </header>
+
+        <section id="robotics">
+            <h2>Robotics & Simulation</h2>
+            <div class="project-grid">
+                <div class="project-card">
+                    <h3>Articulated Manipulation</h3>
+                    <p>Physics-correct Franka pick-and-place using NVIDIA Isaac Sim 5.0, Lula IK, and PhysX rigid-body physics.</p>
+                    <div class="tags">
+                        <span class="tag">NVIDIA Isaac Sim</span>
+                        <span class="tag">Physics</span>
+                        <span class="tag">Python</span>
+                    </div>
+                    <div class="links">
+                        <a href="https://github.com/camirian/articulated-robot-manipulation" class="btn">View Repo →</a>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <h3>Sim-to-Real Control</h3>
+                    <p>ROS 2 bridge for Isaac Sim, providing high-fidelity synchronization between simulation and hardware.</p>
+                    <div class="tags">
+                        <span class="tag">ROS 2</span>
+                        <span class="tag">C++</span>
+                        <span class="tag">OmniGraph</span>
+                    </div>
+                    <div class="links">
+                        <a href="https://github.com/camirian/sim-to-real-control-systems" class="btn">View Repo →</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="ai">
+            <h2>Agentic AI</h2>
+            <div class="project-grid">
+                <div class="project-card">
+                    <h3>Agentic Systems Verifier</h3>
+                    <p>NASA HDTN verification framework using LangChain and Gemini Pro for LLM-driven formal verification.</p>
+                    <div class="tags">
+                        <span class="tag">LangChain</span>
+                        <span class="tag">Gemini Pro</span>
+                        <span class="tag">RAG</span>
+                    </div>
+                    <div class="links">
+                        <a href="https://github.com/camirian/agentic-systems-verifier" class="btn">View Repo →</a>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <h3>AI Supply Chain Platform</h3>
+                    <p>Automated text-to-SQL logic for A&D supply chains using FastAPI and Gemini 1.5-Flash.</p>
+                    <div class="tags">
+                        <span class="tag">FastAPI</span>
+                        <span class="tag">React</span>
+                        <span class="tag">LLM Agent</span>
+                    </div>
+                    <div class="links">
+                        <a href="https://github.com/camirian/ad-supply-chain-platform" class="btn">View Repo →</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="hardware">
+            <h2>Hardware & Engineering</h2>
+            <div class="project-grid">
+                <div class="project-card">
+                    <h3>FPGA Architecture</h3>
+                    <p>Verilog RTL design for SPI Master modules and formal verification testbenches.</p>
+                    <div class="tags">
+                        <span class="tag">Verilog</span>
+                        <span class="tag">FPGA</span>
+                        <span class="tag">RTL</span>
+                    </div>
+                    <div class="links">
+                        <a href="https://github.com/camirian/verilog-fpga-architecture" class="btn">View Repo →</a>
+                    </div>
+                </div>
+                <div class="project-card">
+                    <h3>Knowledge Base</h3>
+                    <p>Robotics ontology and technical glossary for Cyber-Physical systems and MBSE.</p>
+                    <div class="tags">
+                        <span class="tag">MBSE</span>
+                        <span class="tag">Ontology</span>
+                        <span class="tag">SysML</span>
+                    </div>
+                    <div class="links">
+                        <a href="https://github.com/camirian/robotics-ontology" class="btn">View Repo →</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <p>© 2026 Caaren Amirian · Built for a high-performance career.</p>
+        </footer>
+    </div>
+</body>
+</html>

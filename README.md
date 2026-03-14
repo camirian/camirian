@@ -16,35 +16,38 @@
 
 ---
 
+## 🚀 Mega-Project Gallery
 
-## 🤖 Live Demos
+<div align="center">
 
-| Project                                                                                          | What It Does                                                                                |                                                                                           Demo                                                                                           |
-| :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [**articulated-robot-manipulation**](https://github.com/camirian/articulated-robot-manipulation) | Franka Panda pick-and-place using NVIDIA Isaac Sim 5.0 · Lula IK · PhysX rigid-body physics |                                               [![▶](https://img.shields.io/badge/▶-Watch-red?logo=youtube)](https://youtu.be/_889bOzgvUY)                                                |
-| [**agentic-systems-verifier**](https://github.com/camirian/agentic-systems-verifier)             | LangChain + Gemini Pro agentic framework · live pytest execution · NASA HDTN verification   |                                               [![▶](https://img.shields.io/badge/▶-Watch-red?logo=youtube)](https://youtu.be/zYuLUAMb0So)                                                |
-| [**sim-to-real-control-systems**](https://github.com/camirian/sim-to-real-control-systems)       | OmniGraph ROS 2 bridge · joint state publishing · Python & C++ ROS 2 nodes in Isaac Sim     | [![▶](https://img.shields.io/badge/▶-Watch-red?logo=youtube)](https://youtu.be/2jHL1TsLq30) · [![▶](https://img.shields.io/badge/▶-Wave-red?logo=youtube)](https://youtu.be/MKuvEEEHLwQ) |
+| **Physical AI & Robotics** | **Agentic AI & Formal Verification** |
+| :--- | :--- |
+| [<img src="https://github.com/camirian/articulated-robot-manipulation/raw/main/assets/banner.png" width="300"><br>**Articulated Manipulation**](https://github.com/camirian/articulated-robot-manipulation) | [<img src="https://github.com/camirian/agentic-systems-verifier/raw/main/assets/banner.png" width="300"><br>**Agentic Systems Verifier**](https://github.com/camirian/agentic-systems-verifier) |
+| Physics-correct Franka pick-and-place in NVIDIA Isaac Sim. | NASA HDTN verification via LangChain & Gemini Pro. |
+| [<img src="https://github.com/camirian/sim-to-real-control-systems/raw/main/assets/banner.png" width="300"><br>**Sim-to-Real Control**](https://github.com/camirian/sim-to-real-control-systems) | [<img src="https://github.com/camirian/ad-supply-chain-platform/raw/main/assets/banner.png" width="300"><br>**AI Supply Chain Agent**](https://github.com/camirian/ad-supply-chain-platform) |
+| ROS 2 bridge for high-fidelity simulation and real-world sync. | Enterprise text-to-SQL agent for A&D industry. |
+
+</div>
 
 ---
 
-## 🏗️ Portfolio Repositories
+## 🏗️ Technical Domain Pillars
 
-### Physical AI & Cyber-Physical Systems
-| Repo                                                                                                   | Description                                                                                 |
-| :----------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |
-| [articulated-robot-manipulation](https://github.com/camirian/articulated-robot-manipulation)           | Physics-correct Franka pick-and-place · Lula IK · SingleManipulator API · no ROS 2 required |
-| [sim-to-real-control-systems](https://github.com/camirian/sim-to-real-control-systems)                 | ROS 2 OmniGraph bridge · joint states · Python/C++ pub-sub · Isaac Sim scripting            |
-| [distributed-robotics-infrastructure](https://github.com/camirian/distributed-robotics-infrastructure) | Distributed sim-to-real pipeline · Ubuntu host · GCP simulation node · NVIDIA Jetson Orin   |
+### 🦾 Robotics & Simulation
+- **[articulated-robot-manipulation](https://github.com/camirian/articulated-robot-manipulation)**: Franka Panda pick-and-place · Lula IK · NVIDIA Isaac Sim 5.0
+- **[sim-to-real-control-systems](https://github.com/camirian/sim-to-real-control-systems)**: ROS 2 OmniGraph bridge · Joint state publishing · Python & C++ nodes
+- **[distributed-robotics-infrastructure](https://github.com/camirian/distributed-robotics-infrastructure)**: Ubuntu host · GCP simulation node · NVIDIA Jetson Orin sync
 
-### AI & Agentic Systems
-| Repo                                                                             | Description                                                                  |
-| :------------------------------------------------------------------------------- | :--------------------------------------------------------------------------- |
-| [agentic-systems-verifier](https://github.com/camirian/agentic-systems-verifier) | LangChain + Gemini Pro · RAG pipeline · live pytest execution · Streamlit UI |
+### 🧠 Agentic AI & LLMs
+- **[agentic-systems-verifier](https://github.com/camirian/agentic-systems-verifier)**: RAG pipeline · Live pytest execution · LLM-driven formal verification
+- **[ad-supply-chain-platform](https://github.com/camirian/ad-supply-chain-platform)**: FastAPI & React · Gemini 1.5-Flash · Automated supply chain reasoning
 
-### Knowledge Base
-| Repo                                                               | Description                                                   |
-| :----------------------------------------------------------------- | :------------------------------------------------------------ |
-| [robotics-ontology](https://github.com/camirian/robotics-ontology) | Central glossary of robotics, ROS 2, MBSE, and AI terminology |
+### 📟 Embedded & Hardware Systems
+- **[verilog-fpga-architecture](https://github.com/camirian/verilog-fpga-architecture)**: RTL design · SPI Master module · Formal testbenches
+- **[gyroscope-firmware-mock](https://github.com/camirian/gyroscope-firmware-mock)**: DO-254 compliant firmware mock for safety-critical IMU tests
+
+### 📚 Knowledge & Research
+- **[robotics-ontology](https://github.com/camirian/robotics-ontology)**: A living knowledge base for Robotics, AI, and MBSE terminology.
 
 ---
 
@@ -62,25 +65,31 @@
       • Gemini Pro, GPT-4<br>
       • LangChain / RAG<br>
       • Computer Vision<br>
-      • TensorFlow
+      • PyTorch & TensorFlow
     </td>
     <td>
       • ROS 2 (Python & C++)<br>
       • NVIDIA Isaac Sim 5.0<br>
-      • NVIDIA Jetson<br>
+      • NVIDIA Jetson Orin<br>
       • Lula IK / OmniGraph
     </td>
     <td>
       • MBSE / SysML / UAF<br>
-      • Digital Twins<br>
+      • DO-178C / DO-254<br>
       • Requirements Eng.<br>
       • Functional Safety
     </td>
     <td>
-      • Python & C++<br>
-      • Git & GitHub<br>
-      • Docker & Linux<br>
-      • CI/CD (GitHub Actions)
+      • Python & C++ & Verilog<br>
+      • Git & GitHub CI/CD<br>
+      • Docker & Linux (RT)<br>
+      • GCP / Vertex AI
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">
+  Generated with 🪄 for a System Architect's Journey.
+</p>
