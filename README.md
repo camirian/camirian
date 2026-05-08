@@ -2,6 +2,7 @@
 
 [AGENTS.md](./AGENTS.md)
 [docs/OPERATING_STANDARD.md](./docs/OPERATING_STANDARD.md)
+[QUICKSTART.md](./QUICKSTART.md)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/caaren-amirian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
