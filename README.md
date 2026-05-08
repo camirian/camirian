@@ -25,7 +25,7 @@
 | :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **articulated-robot-manipulation** | Franka Panda pick-and-place using NVIDIA Isaac Sim 5.0 · Lula IK · PhysX rigid-body physics |                                               [![▶](https://img.shields.io/badge/▶-Watch-red?logo=youtube)](https://youtu.be/_889bOzgvUY)                                                |
 | **agentic-systems-verifier**             | LangChain + Gemini Pro agentic framework · live pytest execution · NASA HDTN verification   |                                               [![▶](https://img.shields.io/badge/▶-Watch-red?logo=youtube)](https://youtu.be/zYuLUAMb0So)                                                |
-| **sim-to-real-control-systems**       | OmniGraph ROS 2 bridge · joint state publishing · Python & C++ ROS 2 nodes in Isaac Sim     | [![▶](https://img.shields.io/badge/▶-Watch-red?logo=youtube)](https://youtu.be/2jHL1TsLq30) · [![▶](https://img.shields.io/badge/▶-Wave-red?logo=youtube)](https://youtu.be/MKuvEEEHLwQ) |
+| [**sim-to-real-control-systems-public**](https://github.com/camirian/sim-to-real-control-systems-public) | OmniGraph ROS 2 bridge · joint state publishing · Python & C++ ROS 2 nodes in Isaac Sim     | [![▶](https://img.shields.io/badge/▶-Watch-red?logo=youtube)](https://youtu.be/2jHL1TsLq30) · [![▶](https://img.shields.io/badge/▶-Wave-red?logo=youtube)](https://youtu.be/MKuvEEEHLwQ) |
 
 Source exports are being released through clean public repositories after redaction review. Video demos remain public while original working repositories stay private until sanitized.
 
@@ -37,7 +37,7 @@ Source exports are being released through clean public repositories after redact
 | Workstream | Description | Public Status |
 | :--- | :--- | :--- |
 | articulated-robot-manipulation | Physics-correct Franka pick-and-place · Lula IK · SingleManipulator API · no ROS 2 required | Demo video public; code export pending |
-| sim-to-real-control-systems | ROS 2 OmniGraph bridge · joint states · Python/C++ pub-sub · Isaac Sim scripting | Demo videos public; code export pending |
+| [sim-to-real-control-systems-public](https://github.com/camirian/sim-to-real-control-systems-public) | ROS 2 OmniGraph bridge · joint states · Python/C++ pub-sub · Isaac Sim scripting | Public clean export available |
 | distributed-robotics-infrastructure | Distributed sim-to-real pipeline · Ubuntu host · simulation node · NVIDIA Jetson Orin | Code export pending |
 
 ### AI & Agentic Systems
