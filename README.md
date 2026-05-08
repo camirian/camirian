@@ -38,7 +38,7 @@ Source exports are being released through clean public repositories after redact
 | :--- | :--- | :--- |
 | [articulated-robot-manipulation-public](https://github.com/camirian/articulated-robot-manipulation-public) | Physics-correct Franka pick-and-place · Lula IK · SingleManipulator API · no ROS 2 required | Public clean export available |
 | [sim-to-real-control-systems-public](https://github.com/camirian/sim-to-real-control-systems-public) | ROS 2 OmniGraph bridge · joint states · Python/C++ pub-sub · Isaac Sim scripting | Public clean export available |
-| distributed-robotics-infrastructure | Distributed sim-to-real pipeline · Ubuntu host · simulation node · NVIDIA Jetson Orin | Code export pending |
+| [distributed-robotics-infrastructure-public](https://github.com/camirian/distributed-robotics-infrastructure-public) | Distributed sim-to-real pipeline · Ubuntu host · simulation node · NVIDIA Jetson Orin | Public clean export available |
 
 ### AI & Agentic Systems
 | Workstream | Description | Public Status |
