@@ -24,7 +24,7 @@
 | Project                                                                                          | What It Does                                                                                |                                                                                           Demo                                                                                           |
 | :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [**articulated-robot-manipulation-public**](https://github.com/camirian/articulated-robot-manipulation-public) | Franka Panda pick-and-place using NVIDIA Isaac Sim 5.0 · Lula IK · PhysX rigid-body physics |                                               [![▶](https://img.shields.io/badge/▶-Watch-red?logo=youtube)](https://youtu.be/_889bOzgvUY)                                                |
-| **agentic-systems-verifier**             | LangChain + Gemini Pro agentic framework · live pytest execution · NASA HDTN verification   |                                               [![▶](https://img.shields.io/badge/▶-Watch-red?logo=youtube)](https://youtu.be/zYuLUAMb0So)                                                |
+| [**agentic-systems-verifier-case-study**](https://github.com/camirian/agentic-systems-verifier-case-study) | LangChain + Gemini Pro agentic framework · live pytest execution · NASA HDTN verification   |                                               [![▶](https://img.shields.io/badge/▶-Watch-red?logo=youtube)](https://youtu.be/zYuLUAMb0So)                                                |
 | [**sim-to-real-control-systems-public**](https://github.com/camirian/sim-to-real-control-systems-public) | OmniGraph ROS 2 bridge · joint state publishing · Python & C++ ROS 2 nodes in Isaac Sim     | [![▶](https://img.shields.io/badge/▶-Watch-red?logo=youtube)](https://youtu.be/2jHL1TsLq30) · [![▶](https://img.shields.io/badge/▶-Wave-red?logo=youtube)](https://youtu.be/MKuvEEEHLwQ) |
 
 Source exports are being released through clean public repositories after redaction review. Video demos remain public while original working repositories stay private until sanitized.
@@ -43,7 +43,7 @@ Source exports are being released through clean public repositories after redact
 ### AI & Agentic Systems
 | Workstream | Description | Public Status |
 | :--- | :--- | :--- |
-| agentic-systems-verifier | LangChain + Gemini Pro · RAG pipeline · live pytest execution · Streamlit UI | Demo video public; sanitized case study pending |
+| [agentic-systems-verifier-case-study](https://github.com/camirian/agentic-systems-verifier-case-study) | LangChain + Gemini Pro · RAG pipeline · live pytest execution · Streamlit UI | Public case study available |
 
 ### Knowledge Base
 | Repo                                                               | Description                                                   |
