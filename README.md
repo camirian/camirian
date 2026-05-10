@@ -19,7 +19,7 @@ The public repositories below are curated exports and case studies. The original
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=camirian&show_icons=true&theme=radical&hide_border=true" alt="Caaren's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=camirian&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camirian&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
