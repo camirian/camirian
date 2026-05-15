@@ -5,9 +5,9 @@
   <a href="https://www.youtube.com/@CaarenAmirian" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
 
-I build cyber-physical AI systems that connect simulation, robotics control, edge infrastructure, and verification. My background is in safety-critical systems-of-systems; my current work applies that discipline to Physical AI, sim-to-real robotics, MBSE, and agentic software assurance.
+I build cyber-physical AI systems that connect robotics simulation, control, edge infrastructure, and verification. My background is in safety-critical systems engineering, and my current work focuses on Physical AI, sim-to-real robotics, MBSE, and agentic software assurance.
 
-The public repositories below are curated exports and case studies. The original working repos stay private; these public versions are cleaned to show capability without exposing planning notes, machine-specific setup, or unreleased project details.
+This profile highlights public-safe exports and case studies from private working systems. The goal is to show architecture, engineering depth, and observable system behavior without exposing internal planning or unreleased implementation details.
 
 **Core focus**
 
@@ -16,15 +16,7 @@ The public repositories below are curated exports and case studies. The original
 - MBSE/SysML-style vocabulary and architecture models for robotics systems.
 - Agentic verification workflows that combine RAG context, test execution, and engineering evidence.
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=camirian&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=camirian&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
 ---
-
 
 ## Live Demos
 
@@ -34,7 +26,7 @@ The public repositories below are curated exports and case studies. The original
 | [**agentic-systems-verifier-case-study**](https://github.com/camirian/agentic-systems-verifier-case-study) | LangChain + Gemini Pro agentic framework · live pytest execution · NASA HDTN verification   |                                               [![▶](https://img.shields.io/badge/▶-Watch-red?logo=youtube)](https://youtu.be/zYuLUAMb0So)                                                |
 | [**sim-to-real-control-systems-public**](https://github.com/camirian/sim-to-real-control-systems-public) | OmniGraph ROS 2 bridge · joint state publishing · Python & C++ ROS 2 nodes in Isaac Sim     | [![▶](https://img.shields.io/badge/▶-Watch-red?logo=youtube)](https://youtu.be/2jHL1TsLq30) · [![▶](https://img.shields.io/badge/▶-Wave-red?logo=youtube)](https://youtu.be/MKuvEEEHLwQ) |
 
-These demos are backed by public-safe exports or case studies. They are meant to show the engineering pattern and system behavior, not the private project workspace behind it.
+These demos are backed by public-safe exports or case studies. They are intended to show the engineering pattern and system behavior, not the private project workspace behind it.
 
 ---
 
