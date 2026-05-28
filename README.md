@@ -32,7 +32,7 @@ details. This public work stands on its own.
 
 | Project | What It Does | Demo |
 | :--- | :--- | :---: |
-| [**fieldheld-recorder**](https://github.com/camirian/fieldheld-recorder) | Synthetic CLI for replayable, reviewable, rollbackable autonomous-run evidence bundles | [README](https://github.com/camirian/fieldheld-recorder#readme) |
+| [**fieldheld-recorder**](https://github.com/camirian/fieldheld-recorder) | Synthetic CLI for replayable, reviewable, rollbackable autonomous-run evidence bundles | [![Watch](https://img.shields.io/badge/Watch-red?logo=youtube)](https://youtu.be/3yb8Qvf3J68) |
 | [**agentic-systems-verifier-case-study**](https://github.com/camirian/agentic-systems-verifier-case-study) | Agentic verification case study with source context, test execution, and engineering evidence | [![Watch](https://img.shields.io/badge/Watch-red?logo=youtube)](https://youtu.be/zYuLUAMb0So) |
 | [**articulated-robot-manipulation-public**](https://github.com/camirian/articulated-robot-manipulation-public) | Franka Panda pick-and-place using NVIDIA Isaac Sim 5.0, Lula IK, and PhysX rigid-body physics | [![Watch](https://img.shields.io/badge/Watch-red?logo=youtube)](https://youtu.be/_889bOzgvUY) |
 | [**sim-to-real-control-systems-public**](https://github.com/camirian/sim-to-real-control-systems-public) | OmniGraph ROS 2 bridge, joint state publishing, and Python/C++ ROS 2 nodes in Isaac Sim | [![Watch](https://img.shields.io/badge/Watch-red?logo=youtube)](https://youtu.be/2jHL1TsLq30) |
