@@ -33,7 +33,6 @@ sanitized publication repo, not a planning workspace.").
   `docs/MASTER_PLAN.md`; see that file for the relationship.
 - `.devcontainer/` — a Python 3.10 dev container that installs `fonts-liberation2`
   and `Pillow==10.4.0` so the banner renders reproducibly.
-- `.github/dependabot.yml` — weekly GitHub Actions dependency updates.
 - `docs/OPERATING_STANDARD.md` and `HANDOFF.md` exist locally but are **gitignored**
   (see `.gitignore`) and are not part of the public published repo.
 
