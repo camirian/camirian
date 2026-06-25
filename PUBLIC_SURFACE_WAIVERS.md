@@ -11,7 +11,7 @@ These waivers are limited to public-sensitive-term scanning for this profile rep
 Use the profile rule pack when running public-export checks:
 
 ```bash
-python3 /home/caaren/dev/repo-preflight-drift-scanner/repo_preflight.py \
+python3 <path-to>/repo_preflight.py \
   --repo . \
   --profile public-export \
   --paranoid \
