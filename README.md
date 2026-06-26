@@ -10,10 +10,10 @@ is replayable, reviewable, rollbackable, and held to evidence.
 My broader technical base spans Physical AI, robotics simulation, MBSE,
 cyber-physical systems, and agentic verification workflows.
 
-This profile is a sanitized publication surface. It highlights public-safe demos
-and case studies so the architecture, engineering depth, and observable system
-behavior are visible without exposing private workspaces or unreleased
-implementation detail. The public work shown here stands on its own.
+This profile is a sanitized publication surface: public-safe demos, repositories,
+and case studies that show architecture, engineering depth, and observable system
+behavior. Each item below is backed by a recorded demo or a public repository that
+stands on its own.
 
 **Core focus**
 
@@ -26,23 +26,24 @@ implementation detail. The public work shown here stands on its own.
 
 ## Demos
 
-Each demo is a recorded walkthrough of real system behavior. The videos are the
-public artifact; the underlying project workspaces are kept private.
+Each demo is a recorded walkthrough of real system behavior, backed by a public repository.
 
-| Demo | What it shows |
-| :--- | :--- |
-| [Articulated robot manipulation](https://youtu.be/_889bOzgvUY) | Franka Panda pick-and-place in NVIDIA Isaac Sim 5.0 using Lula IK and PhysX rigid-body physics |
-| [Sim-to-real control systems](https://youtu.be/2jHL1TsLq30) | OmniGraph ROS 2 bridge with joint-state publishing and Python/C++ ROS 2 nodes in Isaac Sim |
-| [Agentic systems verifier](https://youtu.be/zYuLUAMb0So) | Agentic verification workflow combining source context, test execution, and engineering evidence |
-| [Fieldheld Recorder](https://youtu.be/3yb8Qvf3J68) | Synthetic CLI that turns autonomous coding-style runs into replayable, reviewable evidence bundles |
+| Demo | Code | What it shows |
+| :--- | :--- | :--- |
+| [▶ Watch](https://youtu.be/_889bOzgvUY) | [articulated-robot-manipulation-public](https://github.com/camirian/articulated-robot-manipulation-public) | Franka Panda pick-and-place in NVIDIA Isaac Sim 5.0 using Lula IK and PhysX rigid-body physics |
+| [▶ Watch](https://youtu.be/2jHL1TsLq30) | [sim-to-real-control-systems-public](https://github.com/camirian/sim-to-real-control-systems-public) | OmniGraph ROS 2 bridge with joint-state publishing and Python/C++ ROS 2 nodes in Isaac Sim |
+| [▶ Watch](https://youtu.be/zYuLUAMb0So) | [agentic-systems-verifier-case-study](https://github.com/camirian/agentic-systems-verifier-case-study) | Agentic verification workflow combining source context, test execution, and engineering evidence |
+| [▶ Watch](https://youtu.be/3yb8Qvf3J68) | [fieldheld-recorder](https://github.com/camirian/fieldheld-recorder) | CLI that turns autonomous coding-style runs into replayable, reviewable evidence bundles |
 
 ---
 
-## Public Case Study
+## More public work
 
-| Repository | What it shows |
+| Repository | What it is |
 | :--- | :--- |
-| [agentic-systems-verifier-case-study](https://github.com/camirian/agentic-systems-verifier-case-study) | A sanitized case study of an agentic verification workflow for systems engineering, with RAG-grounded review, traceability, and faithfulness checks. The public takeaway is the engineering pattern, not a source dump. |
+| [distributed-robotics-infrastructure-public](https://github.com/camirian/distributed-robotics-infrastructure-public) | Reference architecture for a distributed sim-to-real robotics pipeline across edge, host, and cloud nodes |
+| [robotics-ontology-public](https://github.com/camirian/robotics-ontology-public) | Robotics glossary and SysML v2 textual MBSE model examples |
+| [repo-preflight-drift-scanner](https://github.com/camirian/repo-preflight-drift-scanner) | Deterministic, dependency-free CLI and GitHub Action that scans repositories for release blockers and drift |
 
 ---
 
