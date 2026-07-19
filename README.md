@@ -33,7 +33,7 @@ public artifact; the underlying project workspaces are kept private.
 | :--- | :--- |
 | [Articulated robot manipulation](https://youtu.be/_889bOzgvUY) | Franka Panda pick-and-place in NVIDIA Isaac Sim 5.0 using Lula IK and PhysX rigid-body physics |
 | [Sim-to-real control systems](https://youtu.be/2jHL1TsLq30) | OmniGraph ROS 2 bridge with joint-state publishing and Python/C++ ROS 2 nodes in Isaac Sim |
-| [Agentic systems verifier](https://youtu.be/zYuLUAMb0So) | Agentic verification workflow combining source context, test execution, and engineering evidence |
+| [Agentic systems verifier](https://youtu.be/sjPEZ-g4c1U) | Agentic verification workflow combining source context, test execution, and engineering evidence |
 | [Fieldheld Recorder](https://youtu.be/3yb8Qvf3J68) | Synthetic CLI that turns autonomous coding-style runs into replayable, reviewable evidence bundles |
 
 ---
