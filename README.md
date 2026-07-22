@@ -45,6 +45,7 @@ All demonstrations are recorded walkthroughs of real system execution. Visit the
 | [`agentic-systems-verifier-case-study`](https://github.com/camirian/agentic-systems-verifier-case-study) | Sanitized case study of an agentic verification workflow for systems engineering, with RAG-grounded review, traceability, and faithfulness checks. |
 | [`articulated-robot-manipulation-public`](https://github.com/camirian/articulated-robot-manipulation-public) | Clean-room demonstration of Franka Panda pick-and-place routines in Isaac Sim 5.0 with Lula IK. |
 | [`sim-to-real-control-systems-public`](https://github.com/camirian/sim-to-real-control-systems-public) | OmniGraph ROS 2 Jazzy bridge and joint state publishers in synthetic simulation environments. |
+| [`distributed-robotics-infrastructure-public`](https://github.com/camirian/distributed-robotics-infrastructure-public) | Reference architecture for a distributed sim-to-real robotics pipeline across edge, host, and cloud nodes. |
 | [`fieldheld-recorder`](https://github.com/camirian/fieldheld-recorder) | CLI tool generating replayable, reviewable, and rollbackable run evidence bundles for autonomous agent execution. |
 | [`repo-preflight-drift-scanner`](https://github.com/camirian/repo-preflight-drift-scanner) | Automated repository preflight scanner enforcing branch hygiene, waivers, and public-surface rules before release. |
 | [`robotics-ontology-public`](https://github.com/camirian/robotics-ontology-public) | Executable domain vocabulary and architecture models for complex robotics and cyber-physical systems. |
@@ -90,4 +91,3 @@ All demonstrations are recorded walkthroughs of real system execution. Visit the
     </td>
   </tr>
 </table>
-
