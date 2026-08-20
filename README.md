@@ -21,7 +21,7 @@ The current public campaign was preregistered: **20 seeds × 2 conditions = 40 s
 - the acceptance thresholds were **not relaxed after seeing the result**;
 - simulation only — no physical-hardware, safety, certification, production-readiness, or real-world-transfer claim.
 
-**Pinned case study:** [`M4_CASE_STUDY.md` @ `24bf738`](https://github.com/camirian/sim-to-real-control-systems-public/blob/24bf7388e806e9f49f3bee93f754b2b4c00953ff/docs/M4_CASE_STUDY.md) — the fixed evidence-backed record for these campaign claims.
+**Pinned case study:** [`M4_CASE_STUDY.md` @ `24bf738`](https://github.com/camirian/sim-to-real-control-systems-public/blob/24bf7388e806e9f49f3bee93f754b2b4c00953ff/docs/M4_CASE_STUDY.md) — the commit-pinned evidence-backed record for these campaign claims.
 
 That distinction is intentional: execution success and metric improvement are evidence, not permission to overclaim.
 
