@@ -10,6 +10,8 @@ I build evaluation and evidence workflows that make AI-agent and cyber-physical 
 
 ### [Sim-to-Real Control Systems](https://github.com/camirian/sim-to-real-control-systems-public)
 
+**[Watch the 3:44 M4 case study →](https://www.youtube.com/watch?v=f5oMNBi78a8)**
+
 A closed-loop Isaac Sim + ROS 2 Franka experiment with seeded sensor noise and causal filtering.
 
 The current public campaign was preregistered before execution: **20 seeds × 2 conditions = 40 valid runs**, with preserved raw evidence, reproducible paired analysis, and explicit claim boundaries.
