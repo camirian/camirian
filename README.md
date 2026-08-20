@@ -14,12 +14,14 @@ I build evaluation and evidence workflows that make AI-agent and cyber-physical 
 
 A closed-loop Isaac Sim + ROS 2 Franka experiment with seeded sensor noise and causal filtering.
 
-The current public campaign was preregistered before execution: **20 seeds × 2 conditions = 40 valid runs**, with preserved raw evidence, reproducible paired analysis, and explicit claim boundaries.
+The current public campaign was preregistered: **20 seeds × 2 conditions = 40 scheduled runs**, frozen before the first run. All 40 then executed validly — with preserved raw evidence, reproducible paired analysis, and explicit claim boundaries.
 
-- filtering improved tracking RMS, disturbance attenuation, and true articulation-position RMS in **20/20 paired seeds**;
+- on the three headline paired metrics — tracking RMS, disturbance attenuation, and true articulation-position RMS — filtering won in **20/20 paired seeds**;
 - **0/40 runs passed the full certification gauntlet**;
 - the acceptance thresholds were **not relaxed after seeing the result**;
 - simulation only — no physical-hardware, safety, certification, production-readiness, or real-world-transfer claim.
+
+**Pinned evidence:** [`RESULTS.md` @ `24bf738`](https://github.com/camirian/sim-to-real-control-systems-public/blob/24bf7388e806e9f49f3bee93f754b2b4c00953ff/RESULTS.md) — the exact commit these numbers are read from.
 
 That distinction is intentional: execution success and metric improvement are evidence, not permission to overclaim.
 
