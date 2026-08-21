@@ -35,6 +35,7 @@ I am also working privately on fail-closed AI evaluation, verifier disagreement,
 
 ## Physical AI & robotics support
 
+- [Physical AI Research](https://github.com/camirian/physical-ai-research-public) — sanitized export of the research monorepo: NVIDIA Cosmos and Alpamayo evaluation harnesses on GB10 hardware, with frozen manifests, per-file provenance and checksums.
 - [Articulated Robot Manipulation](https://github.com/camirian/articulated-robot-manipulation-public) — Franka Panda manipulation and robotics integration in Isaac Sim.
 - [Robotics Ontology](https://github.com/camirian/robotics-ontology-public) — robotics terminology, interfaces, and systems/MBSE-style traceability examples.
 - [Distributed Robotics Infrastructure](https://github.com/camirian/distributed-robotics-infrastructure-public) — supporting edge/host/cloud robotics architecture reference.
